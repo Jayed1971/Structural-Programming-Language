@@ -13,8 +13,10 @@ C Programming
 ## Learning Source: W3School
 
 ## Topic covered:
-Data Type,
-Operators,
+Data Type,  
+
+Operators,  
+
 Type Conversion,
 Variables,
 If-else,
