@@ -24,7 +24,7 @@ Loop,
 
 # Student Information:
 
-**Name**: Md. Jayed Hussain. 
+**Name**: Md. Jayed Hussain  
 **Registration no** : 2025331556  
 Department: CSE  
 Session: 2025-2026  
