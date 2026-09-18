@@ -1,18 +1,18 @@
-C Programming Assignment
+## C Programming Assignment
 
-This repository contains the C programs that I have written as part of my programming assignment.
+This repository contains the C programs that 
+I have written as part of my programming assignment.
 
-I learned different C programming topics from W3Schools and tried to practice those topics by writing simple programs.
+I learned different C programming topics from W3Schools and
+tried to practice those topics by writing simple programs.
 
-Language
+# Language :
 
 C Programming
 
-Learning Source:
+## Learning Source: W3Schools
 
-W3Schools
-
-Student Information:
+# Student Information:
 
 Name: Md. Jayed Hussain
 Department: CSE
