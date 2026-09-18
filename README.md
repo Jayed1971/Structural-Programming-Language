@@ -13,14 +13,14 @@ C Programming
 ## Learning Source: W3School
 
 ## Topic covered:
-Data Type
-Operators
-Type Conversion
-Variables
-If-else
-Break-continue
-Switch
-Loop
+Data Type,
+Operators,
+Type Conversion,
+Variables,
+If-else,
+Break-continue,
+Switch,
+Loop,
 
 # Student Information:
 
