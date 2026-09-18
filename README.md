@@ -12,7 +12,7 @@ C Programming
 
 ## Learning Source: W3School
 
-## Topic covered:
+## Topics covered:
 Data Type,  
 Operators,  
 Type Conversion,  
